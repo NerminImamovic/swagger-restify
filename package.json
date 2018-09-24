@@ -1,6 +1,6 @@
 {
   "name": "swagger-restify-mw",
-  "version": "0.7.0",
+  "version": "0.7.0-fixed-dependencies.0",
   "description": "Swagger loader and middleware for Restify",
   "keywords": [
     "swagger",
